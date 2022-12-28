@@ -31,7 +31,9 @@ The repository is created when working on the following YouTube video [PHP Devel
 21. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 ------
 
+
 ### How Internet & Websites works
+
 | Resource Name                             |Duration| Resource                                                |
 |-------------------------------------------|--------|---------------------------------------------------------|
 | How does the INTERNET work?               | 9m     | https://youtu.be/x3c1ih2NJEg                            |
@@ -101,6 +103,7 @@ This section is in under development
 | Dani Krossing         | Object Oriented PHP Tutorials            | https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh |
 | The Net Ninja         | Object Oriented PHP Tutorial             | https://www.youtube.com/watch?v=LuWxwLk8StM&list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy |
 
+
 ### Build Projects
 | Resource Name                                          |Duration| Resource                                     |
 |--------------------------------------------------------|--------|----------------------------------------------|
@@ -114,6 +117,7 @@ This section is in under development
 |--------------------------------------------------------|--------|-------------------------------------------------------------------------------------|
 | Build PHP MVC Framework                                | 6h     | https://www.youtube.com/watch?v=WKy-N0q3WRo&list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1 |
 | Create your own PHP Framework                          | N/A    | https://symfony.com/doc/current/create_framework/index.html |
+
 
 ### What is API
 | Resource Name                                                     |Duration| Resource                     |
